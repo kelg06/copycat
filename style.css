@@ -1,4 +1,4 @@
-body {
+.body {
   padding: 0;
   margin: 0;
   background: #f0f2f5;
@@ -92,7 +92,7 @@ body {
 .form-box .create-btn a:hover {
   background: rgb(18, 184, 18);
 }
-footer{
+.lang{
   width: 100%;
   height: 27dvh;
   background-color: white;
@@ -119,7 +119,7 @@ footer{
   font-size: 14px;
   margin-top: 4%;
 }
-ul{
+.foot{
   font-size: 12px;
   list-style-type: none;
   margin: 0;
@@ -135,7 +135,7 @@ ul{
   margin-left: 8%;
   margin-bottom: 0;
 }
-li{
+.li{
   justify-content: space-between;
   unicode-bidi: isolate;
   margin-left: 13px;
@@ -147,7 +147,7 @@ li{
   margin-bottom: 0;
 
 }
-hr{
+.hr{
   width: 76%;
   margin-bottom: 0;
   margin-top: 0;
